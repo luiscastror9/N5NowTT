@@ -1,0 +1,12 @@
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\bin\Debug\net6.0\N5NowTT.Domain.deps.json
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\bin\Debug\net6.0\N5NowTT.Domain.dll
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\bin\Debug\net6.0\N5NowTT.Domain.pdb
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\N5NowTT.Domain.csproj.AssemblyReference.cache
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\N5NowTT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\N5NowTT.Domain.AssemblyInfoInputs.cache
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\N5NowTT.Domain.AssemblyInfo.cs
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\N5NowTT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\N5NowTT.Domain.dll
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\refint\N5NowTT.Domain.dll
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\N5NowTT.Domain.pdb
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Domain\obj\Debug\net6.0\ref\N5NowTT.Domain.dll

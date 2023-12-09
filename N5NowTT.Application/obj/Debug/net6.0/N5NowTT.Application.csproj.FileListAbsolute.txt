@@ -1,0 +1,15 @@
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\bin\Debug\net6.0\N5NowTT.Application.deps.json
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\bin\Debug\net6.0\N5NowTT.Application.dll
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\bin\Debug\net6.0\N5NowTT.Application.pdb
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\bin\Debug\net6.0\N5NowTT.Domain.dll
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\bin\Debug\net6.0\N5NowTT.Domain.pdb
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\N5NowTT.Application.csproj.AssemblyReference.cache
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\N5NowTT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\N5NowTT.Application.AssemblyInfoInputs.cache
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\N5NowTT.Application.AssemblyInfo.cs
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\N5NowTT.Application.csproj.CoreCompileInputs.cache
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\N5NowTT.Application.csproj.CopyComplete
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\N5NowTT.Application.dll
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\refint\N5NowTT.Application.dll
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\N5NowTT.Application.pdb
+C:\Users\luisr\source\repos\N5NowTT\N5NowTT.Application\obj\Debug\net6.0\ref\N5NowTT.Application.dll

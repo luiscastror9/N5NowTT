@@ -16,7 +16,7 @@ namespace N5NowTT.Infrastructure.Commands
         public string? ApellidoEmpleado { get; set; }
         public DateTime FechaPermiso { get; set; }
 
-        public PermissionType? TipoPermiso { get; set; }
+        public int TipoPermiso { get; set; }
     }
 
     public class CreatePermissionsCommandHandler : IRequestHandler<CreatePermissionsCommand,Permissions>
@@ -35,7 +35,7 @@ namespace N5NowTT.Infrastructure.Commands
                 NombreEmpleado = request.NombreEmpleado,
                 ApellidoEmpleado = request.ApellidoEmpleado,
                 FechaPermiso = request.FechaPermiso,
-                TipoPermiso = request.TipoPermiso
+                TipoPermiso = _context.PermissionTypes.FirstOrDefault(x=>x.Id== request.TipoPermiso)
             };
 
             _context.Permissions.Add(newPermission);

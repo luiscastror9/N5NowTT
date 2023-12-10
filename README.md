@@ -14,6 +14,8 @@ I have extensive experience and successful projects with Laravel, PHP/Mysql and 
 
 Father/Husband/Martial Artist
 
+https://www.linkedin.com/in/luiscastror9/
+
 ## API Reference
 
 #### Get all items

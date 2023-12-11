@@ -14,8 +14,6 @@ I have extensive experience and successful projects with Laravel, PHP/Mysql and 
 
 Father/Husband/Martial Artist
 
-https://www.linkedin.com/in/luiscastror9/
-
 ## API Reference
 
 #### Get all items
@@ -54,5 +52,35 @@ https://www.linkedin.com/in/luiscastror9/
   "tipoPermiso": 0
 }
 ```
+
+
+
+## Deployment
+
+To deploy this project run
+
+Use local kafka and elastic enviroments and use 
+
+dot net run N5NowTT.WebApi
+
+
+
+## Environment Variables
+
+you can modify the following environment variables to your appsettings.json file
+
+```"ConnectionStrings": {
+    "Default": "Data Source=(LocalDb)\\MSSQLLocalDB;Initial Catalog=N5NowPermissionDB;Integrated Security=True"
+  },
+  "Elasticsearch": {
+    "Uri": "http://localhost:9200",
+    "DefaultIndex": "n5nowindex",
+    "user": "elastic",
+    "pwd": "yk_*OYadYtcZErxe2Zce"
+  },
+  "Kafka": {
+    "Uri": "localhost:9092",
+    "topic": "n5nowtopic"
+  },```
 
 
